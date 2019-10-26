@@ -12,6 +12,7 @@
  *
  * @author baidu aip
  */
+
 #ifndef __AIP_HTTP_H__
 #define __AIP_HTTP_H__
 

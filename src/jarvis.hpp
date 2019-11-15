@@ -1,7 +1,6 @@
 #ifndef __JARVIS__HPP__
 #define __JARVIS__HPP__
 
-
 #include <iostream>
 #include <memory>
 #include <sstream>
